@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sources on Socialist Legacy</title>
+    <link>https://socialistlegacy.com/sources/</link>
+    <description>Recent content in Sources on Socialist Legacy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Mar 2019 17:10:42 -0400</lastBuildDate>
+    
+	<atom:link href="https://socialistlegacy.com/sources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minima Moralia</title>
+      <link>https://socialistlegacy.com/sources/minima-moralia/</link>
+      <pubDate>Tue, 12 Mar 2019 17:10:42 -0400</pubDate>
+      
+      <guid>https://socialistlegacy.com/sources/minima-moralia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Class Struggles in France 1848 1850</title>
+      <link>https://socialistlegacy.com/sources/the-class-struggles-in-france-1848-1850/</link>
+      <pubDate>Tue, 12 Mar 2019 17:14:59 -0400</pubDate>
+      
+      <guid>https://socialistlegacy.com/sources/the-class-struggles-in-france-1848-1850/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Principles of Communism</title>
+      <link>https://socialistlegacy.com/sources/the-principles-of-communism/</link>
+      <pubDate>Tue, 12 Mar 2019 17:58:29 -0400</pubDate>
+      
+      <guid>https://socialistlegacy.com/sources/the-principles-of-communism/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

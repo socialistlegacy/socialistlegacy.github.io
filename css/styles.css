@@ -744,8 +744,8 @@ h1 svg {
   vertical-align: middle;
 }
 .link-icon {
-  width: 0.75em;
-  height: 0.75em;
+  width: 0em;
+  height: 0em;
 }
 .tags svg, .link-icon {
   vertical-align: middle;

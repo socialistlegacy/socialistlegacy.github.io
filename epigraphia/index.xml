@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Socialist Legacy</title>
-    <link>https://socialistlegacy.com/</link>
-    <description>Recent content on Socialist Legacy</description>
+    <title>Epigraphia on Socialist Legacy</title>
+    <link>https://socialistlegacy.com/epigraphia/</link>
+    <description>Recent content in Epigraphia on Socialist Legacy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Mar 2019 17:58:29 -0400</lastBuildDate>
     
-	<atom:link href="https://socialistlegacy.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://socialistlegacy.com/epigraphia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -56,15 +56,6 @@ When to speak of trees is almost a crime
 For it is a kind of silence about injustice!
 And he who walks calmly across the street,
 Is he not out of reach of his friends</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://socialistlegacy.com/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://socialistlegacy.com/about/</guid>
-      <description>Reflections on the socialist legacy</description>
     </item>
     
   </channel>
