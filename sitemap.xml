@@ -1,6 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://socialistlegacy.com/authors/</loc>
+    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/sources/capital-vol-3/</loc>
+    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/tags/capitalism/</loc>
+    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/tags/communism/</loc>
+    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/tags/disposable-time/</loc>
+    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/epigraphia/</loc>
+    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/tags/freedom/</loc>
+    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/authors/marx/</loc>
+    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/tags/marxism/</loc>
+    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/tags/nature/</loc>
+    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/</loc>
+    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/sources/</loc>
+    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/tags/</loc>
+    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
+  </url>
   
   <url>
     <loc>https://socialistlegacy.com/epigraphia/thetruerealmoffreedom/</loc>
@@ -13,13 +78,93 @@
   </url>
   
   <url>
+    <loc>https://socialistlegacy.com/tags/cooperation/</loc>
+    <lastmod>2019-03-12T17:58:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/authors/engels/</loc>
+    <lastmod>2019-03-12T17:58:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/tags/industry/</loc>
+    <lastmod>2019-03-12T17:58:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/tags/socialism/</loc>
+    <lastmod>2019-03-12T17:58:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/sources/the-principles-of-communism/</loc>
+    <lastmod>2019-03-12T17:58:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/tags/1848/</loc>
+    <lastmod>2019-03-12T17:14:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/tags/bourgeois-socialism/</loc>
+    <lastmod>2019-03-12T17:14:59-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://socialistlegacy.com/epigraphia/droitautravail/</loc>
     <lastmod>2019-03-12T17:14:59-04:00</lastmod>
   </url>
   
   <url>
+    <loc>https://socialistlegacy.com/tags/proletariat/</loc>
+    <lastmod>2019-03-12T17:14:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/tags/right-to-work/</loc>
+    <lastmod>2019-03-12T17:14:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/sources/the-class-struggles-in-france-1848-1850/</loc>
+    <lastmod>2019-03-12T17:14:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/authors/adorno/</loc>
+    <lastmod>2019-03-12T17:10:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/tags/becoming/</loc>
+    <lastmod>2019-03-12T17:10:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/tags/critical-theory/</loc>
+    <lastmod>2019-03-12T17:10:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/sources/minima-moralia/</loc>
+    <lastmod>2019-03-12T17:10:42-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://socialistlegacy.com/epigraphia/notmalign/</loc>
     <lastmod>2019-03-12T17:10:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/authors/brecht/</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socialistlegacy.com/tags/regression/</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,180 +178,7 @@
   </url>
   
   <url>
-    <loc>https://socialistlegacy.com/tags/1848/</loc>
-    <lastmod>2019-03-12T17:14:59-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/authors/adorno/</loc>
-    <lastmod>2019-03-12T17:10:42-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/authors/</loc>
-    <lastmod>2019-03-12T17:10:42-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/becoming/</loc>
-    <lastmod>2019-03-12T17:10:42-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/bourgeois-socialism/</loc>
-    <lastmod>2019-03-12T17:14:59-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/authors/brecht/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/sources/capital-vol-3/</loc>
-    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/capitalism/</loc>
-    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/communism/</loc>
-    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/cooperation/</loc>
-    <lastmod>2019-03-12T17:58:29-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/critical-theory/</loc>
-    <lastmod>2019-03-12T17:10:42-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/disposable-time/</loc>
-    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/authors/engels/</loc>
-    <lastmod>2019-03-12T17:58:29-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/epigraphia/</loc>
-    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/fragments/</loc>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/freedom/</loc>
-    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/industry/</loc>
-    <lastmod>2019-03-12T17:58:29-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/authors/marx/</loc>
-    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/marxism/</loc>
-    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/sources/minima-moralia/</loc>
-    <lastmod>2019-03-12T17:10:42-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/nature/</loc>
-    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/proletariat/</loc>
-    <lastmod>2019-03-12T17:14:59-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/regression/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/right-to-work/</loc>
-    <lastmod>2019-03-12T17:14:59-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/socialism/</loc>
-    <lastmod>2019-03-12T17:58:29-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/</loc>
-    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/sources/</loc>
-    <lastmod>2019-03-12T19:56:08-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/tags/</loc>
-    <lastmod>2019-03-12T17:14:59-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/sources/the-class-struggles-in-france-1848-1850/</loc>
-    <lastmod>2019-03-12T17:14:59-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://socialistlegacy.com/sources/the-principles-of-communism/</loc>
-    <lastmod>2019-03-12T17:58:29-04:00</lastmod>
-    <priority>0</priority>
+    <loc>https://socialistlegacy.com/epigraphia/test/</loc>
   </url>
   
 </urlset>

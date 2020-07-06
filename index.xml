@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Socialist Legacy</title>
@@ -54,17 +54,9 @@ Above all, it will have to take the control of industry and of all branches of p
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://socialistlegacy.com/epigraphia/toposterity/</guid>
-      <description>1.
-Indeed I live in the dark ages!
-A guileless word is an absurdity. A smooth forehead betokens
-A hard heart. He who laughs
-Has not yet heard
-The terrible tidings.
-Ah, what an age it is
-When to speak of trees is almost a crime
-For it is a kind of silence about injustice!
-And he who walks calmly across the street,
-Is he not out of reach of his friends</description>
+      <description>Indeed I live in the dark ages!A guileless word is an absurdity. A smooth forehead betokensA hard heart. He who laughsHas not yet heardThe terrible tidings.
+Ah, what an age it isWhen to speak of trees is almost a crimeFor it is a kind of silence about injustice!And he who walks calmly across the street,Is he not out of reach of his friendsIn trouble?
+It is true: I earn my livingBut, believe me, it is only an accident.</description>
     </item>
     
     <item>
@@ -73,7 +65,16 @@ Is he not out of reach of his friends</description>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://socialistlegacy.com/about/</guid>
-      <description>Reflections on the socialist legacy</description>
+      <description>Reflections of the socialist legacy</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://socialistlegacy.com/epigraphia/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://socialistlegacy.com/epigraphia/test/</guid>
+      <description>Test</description>
     </item>
     
   </channel>
